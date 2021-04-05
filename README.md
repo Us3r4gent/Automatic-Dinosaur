@@ -7,10 +7,10 @@ I am only 13 so SMASH that star button if you like it.
 
 Python libraries you need:
 
-Numpy
+1. Numpy
 
-Pillow (PIL)
+2. Pillow (PIL)
 
-Pyautogui
+3. Pyautogui
 
 Works the best on http://www.trex-game.skipser.com/
