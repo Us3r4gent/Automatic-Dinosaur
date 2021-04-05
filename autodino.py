@@ -6,7 +6,7 @@ GitHub: FangziOMG
 Follow me on twitter: @MichaelFangzi
 '''
 
- PIL import ImageGrab
+from PIL import ImageGrab
 from PIL import ImageOps
 import pyautogui
 import time
