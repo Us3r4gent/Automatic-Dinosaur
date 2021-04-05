@@ -13,4 +13,6 @@ Python libraries you need:
 
 3. Pyautogui
 
+## IMPORTANT
+
 Works the best on http://www.trex-game.skipser.com/
