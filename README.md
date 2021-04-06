@@ -5,6 +5,10 @@ Created by Michael Fang
 
 I am only 13 so SMASH that star button if you like it.
 
+This only works on my computer so I'm still thinking about how to optimize it.
+
+If you can help me please send pull requests
+
 Python libraries you need:
 
 1. Numpy
